@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Mahmud👋</h1>
+<h1>Hi! I'm Mahmud👋</h1>
 
 - 🌱 I’m a fullstack developer who have interest about developing **Mobile Applications using Flutter, Kotlin and also react-native**. I'm also have interest developing in web development using **laravel** and litle **Node Js (Typescript)**
 
