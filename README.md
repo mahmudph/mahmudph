@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androistudio" width="40" height="40"/> </a>
 <a href=" https://mockoon.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="postman" width="40" height=40/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://mockoon.com/images/logo.svg" alt="postman" width="100" height="40" /> </a>
+<a href="https://mockoon.com" target="_blank"> <img src="https://mockoon.com/images/logo.svg" alt="postman" width="100" height="40" /> </a>
 
 </p>
 
